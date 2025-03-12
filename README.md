@@ -1,4 +1,4 @@
-# 🌡Termostato Arduino
+# Termostato Arduino
 
 Un **termostato basato su Arduino** che utilizza un **sensore di temperatura e umidità DHT11** per monitorare l'ambiente e attivare LED di segnalazione in base alla temperatura rilevata.
 
@@ -27,7 +27,6 @@ Un **termostato basato su Arduino** che utilizza un **sensore di temperatura e u
 - **LED Verde** → **Pin 4**  
 - **LED Rosso** → **Pin 3**
   
-## Schema
 
 
 
